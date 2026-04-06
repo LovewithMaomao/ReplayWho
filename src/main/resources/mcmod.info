@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "replaywho",
+    "name": "ReplayWho",
+    "description": "Who everywhere okay???",
+    "version": "1.0.0",
+    "mcversion": "[1.8.8,)",
+    "url": "",
+    "authorList": [
+      "LovableMaomao"
+    ],
+    "credits": ""
+  }
+]
